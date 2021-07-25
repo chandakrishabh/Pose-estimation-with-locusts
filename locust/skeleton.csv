@@ -1,0 +1,15 @@
+name,parent,swap
+head,,
+neck,head,
+anttipL,,anttipR
+antbaseL,anttipL,antbaseR
+forelegL1,,forelegR1
+forelegL2,forelegL1,forelegR2
+midlegL1,,midlegR1
+midlegL2,midlegL1,midlegR2
+anttipR,,anttipL
+antbaseR,anttipR,antbaseL
+forelegR1,,forelegL1
+forelegR2,forelegR1,forelegL2
+midlegR1,,midlegL1
+midlegR2,midlegR1,midlegL2
